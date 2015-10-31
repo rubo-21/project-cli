@@ -1,0 +1,13 @@
+{
+  "name": "project-cli",
+  "version": "0.1.1",
+  "description": "Simple project maker",
+  "author": "Ruben Yeghikyan",
+  "main": "index.js",
+  "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": { "project" : "./index.js" },
+  "author": "Ruben Yeghikyan <rubenyeghikyan@gmail.com>",
+  "license": "ISC"
+}
